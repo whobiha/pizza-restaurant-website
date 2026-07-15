@@ -85,5 +85,6 @@ Website layout design
 CSS styling
 Responsive design
 Working with images and UI components
-<img width="1831" height="877" alt="image" src="https://github.com/user-attachments/assets/b67aed2a-a59e-43d4-86f8-6890b7fd052a" />
+<img width="1822" height="878" alt="image" src="https://github.com/user-attachments/assets/afdd2c8a-31bb-4240-9aab-4eea941540ab" />
+
 
