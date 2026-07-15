@@ -1,4 +1,4 @@
-# 🍕 Pizza Paradise - Online Pizza Website
+# 🍕 SHALE PIZZA - Online Pizza Website
 
 A modern and responsive pizza website designed to showcase delicious pizzas, burgers, breakfast items, and beverages with an attractive user-friendly interface.
 
