@@ -44,4 +44,44 @@ This project was created using **HTML and CSS** with a focus on clean design, re
 ---
 
 ## 📂 Project Structure
+Pizza-Website/
+│
+├── index.html
+├── style.css
+│
+├── images/
+│ ├── pizza images
+│ ├── burger images
+│ └── other food images
+│
+└── README.md
 
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/pizza-website.git
+Open the project folder.
+Run:
+index.html
+
+in your browser.
+
+📸 Screenshots
+
+(Add screenshots of your website here)
+
+Example:
+
+🎯 Project Purpose
+
+The goal of this project was to practice front-end development skills by creating a visually appealing food website while improving my understanding of:
+
+Website layout design
+CSS styling
+Responsive design
+Working with images and UI components
